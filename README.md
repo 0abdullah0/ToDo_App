@@ -1,16 +1,21 @@
-# konsolto_task
+# Project title: 
+- konsolto_task
 
-A new Flutter application.
+# Project description:
+- TODO notes to arrange your daily plans.
 
-## Getting Started
+# Technologies used:
+- Flutter because it is performant by default and has variety of access among platforms (Android/IOS/Win/Web).
+- Firebase as it offers handy services to consume.
 
-This project is a starting point for a Flutter application.
+# Table of Contents:
+- Add/Remove/Edit task.
 
-A few resources to get you started if this is your first Flutter project:
+# How to install and run the project:
+- Install Dart & Flutter sdk and IDE supports it.
+- Download the project then run it.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# future updates:
+- Nope for now 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
