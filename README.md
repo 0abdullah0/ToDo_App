@@ -6,7 +6,7 @@
 
 # Technologies used:
 - Flutter because it is performant by default and has variety of access among platforms (Android/IOS/Win/Web).
-- Firebase as it offers handy services to consume.
+- Firebase as it offers handy services to be consumed.
 
 # Table of Contents:
 - Add/Remove/Edit task.
